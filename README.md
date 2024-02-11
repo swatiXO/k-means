@@ -6,4 +6,4 @@ width and length features. Drop other two features for simplicity.
 3. Draw elbow plot and from that figure out optimal value of k
 
 # Task 2
-Use given CSV as dataset and apply K Means to it.
+Use given CSV as dataset and figure out optimal value of K.
