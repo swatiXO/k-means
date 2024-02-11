@@ -1,4 +1,5 @@
 # k-means
+Elbow method for optimal value of K
 # Task 1
 1. Use iris flower dataset from sklearn library and try to form clusters of flowers using petal
 width and length features. Drop other two features for simplicity.
